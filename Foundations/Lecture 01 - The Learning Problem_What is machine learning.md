@@ -15,7 +15,7 @@
 * improve some performance measure (e.g. prediction accuracy)
 * __Machine learning__:improving some performance measure with experience computed from data
 > data->__ML__->improved performance measure (ex: stock data->ML->more investment gain)
-## ML: an alternative route to build complicated systems (ex: somthing that is difficult to be defined by human)
+## ML: an alternative route to build complicated systems (ex: something that is difficult to be defined by human)
 ## Key essence of Machine learning (help decide whether to use ML)
 1. Exists some "underlying pattern" to be learned (so "performance measure" can be improved)
 2. but no programmable (easy) definition (so "ML" is needed)
