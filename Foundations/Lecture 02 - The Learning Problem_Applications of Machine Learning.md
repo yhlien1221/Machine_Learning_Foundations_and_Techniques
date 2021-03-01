@@ -20,10 +20,10 @@ another quiz question
 |Current debt|200,000 |
 > __unknown__ pattern to be learned: "approve credit card good for bank?"
 ## Formalize the learning problem
-![image](picture or gif url)
+![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/2_1.png)
 * ML is a method to get the g and we hope the g is same or similar to target function (f)
-![image](picture or gif url)
-![image](picture or gif url)
-![image](picture or gif url)
+![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/2_2.png)
+![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/2_3.png)
+![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/2_4.png)
 
 ## __Machine learning__: use data to __compute hypothesis g__ that __approximates target f__
