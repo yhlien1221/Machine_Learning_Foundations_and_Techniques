@@ -33,7 +33,7 @@
 <br>![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/5_7.jpg)<br/>
 * Update 2:A black circle is in the wrong side. Original we should change the normal vector from red line to purple one by minimizing the included angle.
 <br>![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/5_8.jpg)<br/>
-* Update 3:A black X is wrong. Original we should change the normal vector from red line to purple one by enlarging the included angle.
+* Update 3:A black X is wrong. We should change the normal vector from red line to purple one by enlarging the included angle.
 <br>![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/5_9.jpg)<br/>
 * Update 4: continue updated the line.
 <br>![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/5_10.jpg)<br/>
