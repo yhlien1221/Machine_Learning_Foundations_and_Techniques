@@ -17,3 +17,5 @@
 
 ## __Machine learning__: use data to __compute hypothesis g__ that __approximates target f__
 
+## Reference:
+1. Hsuan-Tien Lin - Machine Learning Foundations (機器學習基石)

@@ -33,3 +33,5 @@ database__
 > statistics __can be used to achieve ML__
 2. traditional statistics also focus on __provable results with math assumptions,__ and care less about computation
 <br>![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/4_1.png)<br/>
+## Reference:
+1. Hsuan-Tien Lin - Machine Learning Foundations (機器學習基石)

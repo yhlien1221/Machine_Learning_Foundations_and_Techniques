@@ -27,3 +27,5 @@ another quiz question
 ![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/2_4.png)
 
 ## __Machine learning__: use data to __compute hypothesis g__ that __approximates target f__
+## Reference:
+1. Hsuan-Tien Lin - Machine Learning Foundations (機器學習基石)
