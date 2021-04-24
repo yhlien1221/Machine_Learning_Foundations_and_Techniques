@@ -1,6 +1,6 @@
 ## Feasibility of learning
 
-### Learning with Different Input Space X
+### Connection to Real Learning
 - Concrete features
 * ex: the size and weight of coins or characteristics of each patients.
 - Raw features
