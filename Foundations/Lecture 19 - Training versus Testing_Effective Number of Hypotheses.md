@@ -14,7 +14,7 @@
 * |H(x1,x2,,,,xn)| depend on x1,x2,...xn. 
 <br>![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/19_1.jpg)<br/>
 <br><br/>
-* Growth function: remove dependence by taking max of all possible (x1,x2...)
+* Growth function: remove dependence by taking max of all possible (x1,x2...), that formalizes the number of "effective" hypotheses in a hypothesis set
 * How to calculate growth function?
 <br>![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/19_2.jpg)<br/>
 <br><br/>
@@ -23,6 +23,8 @@
 <br>![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/19_3.jpg)<br/>
 <br><br/>
 * Growth function for positive intervals
+* positive intervals:C(N+1,2) represents any two points can be a positive interval)
+* +1: all x
 * Above we mentioned two examples of Mh(N), and m can replace the formula M in Hoeffding, so the prob(BAD) would be very small
 <br>![image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/19_4.jpg)<br/>
 <br><br/>
