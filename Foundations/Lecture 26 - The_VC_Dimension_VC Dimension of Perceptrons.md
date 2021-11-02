@@ -3,7 +3,7 @@
 ### VC Dimension of Perceptrons
 * 2D PLA algorithms:
 - Perceptrons k = 4, dvc = 3
-- N is large enough, Eout(g) is approximate Ein(g)
+- N is large enough, Eout(g) is approximate Ein(g) accodring to VC bound
 - if there is a g that make Ein(g) approximate 0 (PLA learned)
 <br>[image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/26_1.jpg)<br/>
 <br><br/>

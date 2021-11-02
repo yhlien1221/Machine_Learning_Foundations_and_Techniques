@@ -3,14 +3,15 @@
 ### Physical intuition VC Dimension
 * W also called featrues (the degrees of freedom).
 * Degrees of freedom can be adjusted arbitrarily
-* VC Dimension represents the capibility of classification in data
+* dvc(H) = degrees of freedom of h = the number of dichotomy = the number of features (not always)
 <br>[image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/27_1.jpg)<br/>
 <br><br/>
-* For instances, linear classification, dvc = 3, W ={w_0,w_1,w_2}.
-* Learning can be proceeded by 3 features (the degree of freedom is 3)
-* M is proportional to dvc
 <br>[image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/27_2.jpg)<br/>
 <br><br/>
+
+* For instances, linear classification, dvc = 3, W ={w_0,w_1,w_2}.
+* Learning can be proceeded by 3 features (the degree of freedom is 3)
+* M is proportional to dvc and this can be concluded below
 <br>[image](https://github.com/yhlien1221/Machine_Learning_Foundations_and_Techniques/blob/main/Foundations/pic/27_3.jpg)<br/>
 <br><br/>
 
